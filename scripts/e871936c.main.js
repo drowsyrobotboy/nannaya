@@ -1,0 +1,1 @@
+$(function(){$("#font-select").selectmenu(),$("input[type=submit], a, button").button().click(function(a){a.preventDefault()})});
